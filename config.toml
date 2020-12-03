@@ -19,7 +19,7 @@ enableRobotsTXT = true
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
-  youtube = ""
+  youtube = "https://www.youtube.com/channel/UC9kXxtdbkLEoX1TwBr9GTPA?"
   github = "https://github.com/amandaernar"
   rss = ""
   # http://tachyons.io/docs/themes/skins/
