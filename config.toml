@@ -1,3 +1,28 @@
-baseURL = "http://example.org/"
+title = "Amanda Ernar"
+baseURL = "https://amandaernar.github.io/blog"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "gohugo-theme-ananke"
+themesDir = "themes"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 6
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  youtube = ""
+  github = "https://github.com/amandaernar"
+  rss = ""
+  # http://tachyons.io/docs/themes/skins/
+  background_color_class = "bg-blue"
+  featured_image = "/images/homepage.jpg"
+  recent_posts_number = 2
