@@ -16,8 +16,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
-  site_logo = ""
+  favicon = "site-logo.png"
+  site_logo = "site-logo.png"
   description = "The last theme you'll ever need. Maybe."
   youtube = "https://www.youtube.com/channel/UC9kXxtdbkLEoX1TwBr9GTPA?"
   github = "https://github.com/amandaernar"
@@ -25,4 +25,4 @@ enableRobotsTXT = true
   # http://tachyons.io/docs/themes/skins/
   background_color_class = "bg-blue"
   featured_image = "/images/homepage.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 4
