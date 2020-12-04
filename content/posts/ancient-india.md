@@ -1,6 +1,7 @@
 ---
 title: "Ancient India"
 date: 2020-05-11-14:40:55-0700
+featured_image: "images/ancient-india.jpg"
 ---
 
 India has evolved fascinatingly throughout its existence. It has been through many civil wars, governments, and periods. Ancient India was an astonishingly intelligent civilization, for it had come up with many revolutionary inventions. Some of these include the field of medicine, the decimal system, fables, and the game of chess. India has always been one of the most advanced civilizations, and this essay will explain why.

@@ -1,6 +1,7 @@
 ---
 title: "From Woodsong"
 date: 2020-05-16-17:25:23-0700
+featured_image: "images/from-woodsong.jpg"
 ---
 "From Woodsong" by Gary Paulsen tells a heartwarming story concerning the day he encounters a bear. The tale commences when Paulsen is removing burned food from his home one beautiful July morning. He spots a large male bear tearing his trash can apart. Paulsen then provokes the bear by hurling shoots and branches at it, and the animal charged. The bear's intimidating figure hovered above Paulsen for a good minute or two, sniffing him up and down. It then deliberately crept away from him, and as the bear proceeds to scour through the wastebin, a chilling question confronts Paulsen.
 

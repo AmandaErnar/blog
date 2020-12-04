@@ -1,6 +1,7 @@
 ---
 title: "Quarantine and the Pandemic"
 date: 2020-06-04-12:32:59-0700
+featured_image: "images/quarantine-and-the-pandemic.jpg"
 ---
 
 It's been about a few months since the beginning of the national lockdown. So far, there have been 6,570,362 cases reported worldwide. There are about ten times that amount, so that would be 60 million cases. I'm kind of scared about going outside. 2020 has been a terrible year so far.

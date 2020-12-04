@@ -1,6 +1,7 @@
 ---
 title: "Sagan's Journal"
 date: 2020-12-03T15:31:28-08:00
+featured_image: "images/sagans-journal.jpg"
 ---
 It hadn’t rained in thirty years.
 
