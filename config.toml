@@ -3,6 +3,7 @@ baseURL = "https://amandaernar.github.io/blog"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
+publishDir = "docs"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
@@ -23,6 +24,6 @@ enableRobotsTXT = true
   github = "https://github.com/amandaernar"
   rss = ""
   # http://tachyons.io/docs/themes/skins/
-  background_color_class = "bg-blue"
+  background_color_class = "bg-black"
   featured_image = "/images/homepage.jpg"
   recent_posts_number = 4
