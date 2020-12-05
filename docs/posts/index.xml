@@ -8,6 +8,26 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Dec 2020 15:49:20 -0800</lastBuildDate><atom:link href="https://amandaernar.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Butterflies and Blue</title>
+      <link>https://amandaernar.github.io/blog/posts/butterflies-and-blue/</link>
+      <pubDate>Sat, 05 Dec 2020 13:42:14 -0800</pubDate>
+      
+      <guid>https://amandaernar.github.io/blog/posts/butterflies-and-blue/</guid>
+      <description>Famous scientists like Sir Isaac Newton have been fascinated by the color blue in nature. It&amp;rsquo;s incredibly rare and is absolutely beautiful, but why do they only rarely exist in nature? Well, we&amp;rsquo;ll have to look into what pigment is. Pigment is a thing that is released from an organism&amp;rsquo;s body due to the things it eats. Flamingoes get their pink pigment from the crustaceans (shrimp, crabs) they eat. Spoiler: there really aren&amp;rsquo;t any organisms that make blue pigment.</description>
+    </item>
+    
+    <item>
+      <title>App Development Journey</title>
+      <link>https://amandaernar.github.io/blog/posts/app-development-journey/</link>
+      <pubDate>Fri, 04 Dec 2020 14:22:27 -0800</pubDate>
+      
+      <guid>https://amandaernar.github.io/blog/posts/app-development-journey/</guid>
+      <description>12.4.20
+React Native is an extremely useful app framework that is used by major companies such as Instagram, Facebook, and even Discord. “Oh, but Amanda, doesn’t Apple only support things created with X-Code and Swift?” You probably have no idea what you’re talking about. There are plenty of third-party app frameworks that work just as well as Xcode, but unfortunately Apple hates them (seriously).
+As far as I know, there are two ways to make a React Native project.</description>
+    </item>
+    
+    <item>
       <title>The One Thousand Times Rule</title>
       <link>https://amandaernar.github.io/blog/posts/1-thousand-times-rule/</link>
       <pubDate>Thu, 03 Dec 2020 21:53:22 -0800</pubDate>
