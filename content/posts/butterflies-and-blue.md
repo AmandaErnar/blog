@@ -13,5 +13,3 @@ Blue butterflies and jays don't actually release blue pigment. If you look at a 
 ![Different Color Wavelengths]("https://github.com/amandaernar/blog/static/images/different-color-wavelengths.jpg")
 
 This phenomena happens for a reason. At some point, animals that are now known to be blue needed to become blue, but they couldn't find anything blue to eat. So instead of somehow harnessing a blue pigment, they changed the structures of their feathers and wings. The same thing even applies to blue flowers!
-
-![Butterfly Microscope Picture]("https://github.com/amandaernar/blog/static/images/butterfly-microscope-picture.jpg")
