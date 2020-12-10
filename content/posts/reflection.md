@@ -1,7 +1,7 @@
 ---
 title: "Reflection"
 date: 2020-12-09T14:25:53-08:00
-featured_image: "reflection.jpg"
+featured_image: "images/reflection.jpg"
 ---
 
 12.2.20

@@ -1,7 +1,7 @@
 ---
 title: "Work in Progress"
 date: 2020-12-08T20:59:40-08:00
-featured_image: "work-in-progress.jpg"
+featured_image: "images/work-in-progress.jpg"
 ---
 
 I gazed upon the verdant hillcrest stitching itself into the Tanando Mountain's base. The obscure cavities tracing the outline of the range zig-zagged and spiraled gracefully before combining with the noble coastline by the east. The setting sun shone its last bits of light onto our fine city-state, Tanando Landing.
