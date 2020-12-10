@@ -1,6 +1,6 @@
 ---
 title: "Reflection"
-date: 2020-12-03T14:25:53-08:00
+date: 2020-12-09T14:25:53-08:00
 featured_image: "reflection.jpg"
 ---
 
@@ -16,4 +16,5 @@ I am currently wasting time. If things don't get better quick, I will be destine
 Oh, and one last thing:
 Learn from your mistakes.
 
-AE
+12.9.20
+Don't be soft. It's better to be aggressive than soft. If you aim farther, you will for sure reach yur goal. This means I have to 100% be louder and more social. Be more active, have more energy. *Keep trying and don't give up.* Even if it means breaking things, never, ever make up excuses that will stop you from reaching your goal. Choose to keep walking through the dangerous and hard path ahead of you rather than turn back. Ask new people to roll at jiu-jitsu; make more friends; ask your friends to meet up in person; move faster.
