@@ -21,5 +21,4 @@ These are a few things that have happened since January first:
 - Criminals loot homes, banks, and luxury stores
 - Protesters burn down cities
 - ALL TOILET PAPER IS GONE
-- The only good things that have happened are
 - Dolphins are in the Venice Canals due to no pollution
