@@ -18,3 +18,13 @@ Learn from your mistakes.
 
 12.9.20
 Don't be soft. It's better to be aggressive than soft. If you aim farther, you will for sure reach yur goal. This means I have to 100% be louder and more social. Be more active, have more energy. *Keep trying and don't give up.* Even if it means breaking things, never, ever make up excuses that will stop you from reaching your goal. Choose to keep walking through the dangerous and hard path ahead of you rather than turn back. Ask new people to roll at jiu-jitsu; make more friends; ask your friends to meet up in person; move faster.
+
+2.10.21
+
+Don’t argue. Don’t pick on a few lose hairs just to win points when you know that you’re to one who is in the fault. Just admit you’re wrong and get over it.
+
+Also find a good partner in jiu jitsu who doesn’t socialize all the time. I’d rather have a good partner and roll for twenty minutes rather than roll with a bad partner for 90 minutes, being with someone like that can be a waste of time.
+
+2.12.21
+
+Don’t feel bad about yourself, and if you do, don’t take it out on other people. If you lose, you lose. It’s okay. Don’t let an angry bubble build up inside you until it pops. In other words, don’t be someone like Paul. Paul bad.
