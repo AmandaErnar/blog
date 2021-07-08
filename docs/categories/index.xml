@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Amanda Ernar</title>
-    <link>https://amandaernar.github.io/blog/categories/</link>
-    <description>Recent content in Categories on Amanda Ernar</description>
+    <title>Categories on Amanda&#39;s sick website</title>
+    <link>http://example.org/blog/categories/</link>
+    <description>Recent content in Categories on Amanda&#39;s sick website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://amandaernar.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>© Amanda Ernar</copyright><atom:link href="http://example.org/blog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

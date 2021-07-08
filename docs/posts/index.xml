@@ -1,125 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Amanda Ernar</title>
-    <link>https://amandaernar.github.io/blog/posts/</link>
-    <description>Recent content in Posts on Amanda Ernar</description>
+    <title>Posts on Amanda&#39;s sick website</title>
+    <link>http://example.org/blog/posts/</link>
+    <description>Recent content in Posts on Amanda&#39;s sick website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Dec 2020 15:49:20 -0800</lastBuildDate><atom:link href="https://amandaernar.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Amanda Ernar</copyright>
+    <lastBuildDate>Wed, 07 Jul 2021 12:55:04 -0700</lastBuildDate><atom:link href="http://example.org/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>hhh</title>
-      <link>https://amandaernar.github.io/blog/posts/hhh/</link>
-      <pubDate>Sat, 10 Apr 2021 10:39:09 -0700</pubDate>
+      <title>Reverie</title>
+      <link>http://example.org/blog/posts/reverie/</link>
+      <pubDate>Wed, 07 Jul 2021 12:55:04 -0700</pubDate>
       
-      <guid>https://amandaernar.github.io/blog/posts/hhh/</guid>
-      <description>To-do:
- Get poetry analysis whatnot done Finish children&amp;rsquo;s books with pictures Set up good system for completing work, set specific time to take breaks and piano etc. practice vim  </description>
+      <guid>http://example.org/blog/posts/reverie/</guid>
+      <description>Creation and destruction, death and rebirth.
+Billions of years ago, the Great Creator gave birth to our beloved world. He sculpted man from clay and wove our rivers, hills, and trees into our battered planet using His divine breath.
+Or did was the Great Creator just some sort of myth?
+That spine-chilling question&amp;rsquo;s been plagueing humanity for centuries. And I, a
+ I remember falling asleep that night and never waking up, opening my eyes to a ceaseless horror unraveling itself before my eyes.</description>
     </item>
     
     <item>
-      <title>Excuses</title>
-      <link>https://amandaernar.github.io/blog/posts/excuses/</link>
-      <pubDate>Sat, 06 Feb 2021 13:56:19 -0800</pubDate>
+      <title>Monster</title>
+      <link>http://example.org/blog/posts/monster/</link>
+      <pubDate>Mon, 05 Jul 2021 23:16:59 -0700</pubDate>
       
-      <guid>https://amandaernar.github.io/blog/posts/excuses/</guid>
-      <description>It&amp;rsquo;s very human of us to make excuses for ourselves, but that doesn&amp;rsquo;t mean that it&amp;rsquo;s a good thing to do. Making excuses is disrespectful and it prevents your confronter from getting their point across. When confronted, the best thing you can do is just apologize and admit that you&amp;rsquo;re wrong. If you truly believe that they are not correct in the issue they&amp;rsquo;ve addressed, politely state your opinion in a clear way for them to understand.</description>
-    </item>
-    
-    <item>
-      <title>Being Early</title>
-      <link>https://amandaernar.github.io/blog/posts/being-early/</link>
-      <pubDate>Sat, 30 Jan 2021 10:02:13 -0800</pubDate>
-      
-      <guid>https://amandaernar.github.io/blog/posts/being-early/</guid>
-      <description>Always prepare the night before something. Especially if the next day is a school day. Set your alarm clock, layout some clean clothes, and set up your zoom station or whatever. Always be twenty minutes early. Why be early? I thought it doesn’t do you any good to be early!
-Well, not quite. Your blood pressure and physical wellbeing deteriorate as you are in a rush. Your heart beats out of your chest and you might even start sweating nervously.</description>
-    </item>
-    
-    <item>
-      <title>Trust</title>
-      <link>https://amandaernar.github.io/blog/posts/trust/</link>
-      <pubDate>Tue, 19 Jan 2021 13:23:27 -0800</pubDate>
-      
-      <guid>https://amandaernar.github.io/blog/posts/trust/</guid>
-      <description>They say trust is like an eraser because it gets smaller every time you use it up. I agree. Trust gives individuals power, and it&amp;rsquo;s more valuable than gold. But by &amp;ldquo;using&amp;rdquo; trust, what do they mean? Well, lying. If you didn&amp;rsquo;t assume that then you&amp;rsquo;re dumb lol
-It&amp;rsquo;s hard to trust people with a history of lying. You all know the tale of the boy who cried wolf. Aesop, am I right?</description>
-    </item>
-    
-    <item>
-      <title>Reflection</title>
-      <link>https://amandaernar.github.io/blog/posts/reflection/</link>
-      <pubDate>Wed, 09 Dec 2020 14:25:53 -0800</pubDate>
-      
-      <guid>https://amandaernar.github.io/blog/posts/reflection/</guid>
-      <description>12.2.20 Move fast. If you can move quicker, then do it, especially if you have priorities. Be efficient. Learn in an efficient manner. Use your brian; if something isn&amp;rsquo;t worth doing, then don&amp;rsquo;t do it. Plan. Have an aim/goal for the day. Whether you&amp;rsquo;re hanging out with your friends, coding, doing martial arts, try to always have a goal. Planning is the only way you&amp;rsquo;re going to get anywhere in life.</description>
+      <guid>http://example.org/blog/posts/monster/</guid>
+      <description>Whoever fights monsters should see to it that in the process he does not become a monster. And when you look long into an abyss, the abyss also looks into you.&amp;quot; (Beyond Good and Evil, 146)
+This is one of the aspects of Nietzsche that is easily overlooked by people who want to see him as simply nihilistic and destructive.
+For Nietzsche, the construction of the self is not a religious act, an obligation, or an act of submission to nature, as variously seen by &amp;lsquo;moralities&amp;rsquo; &amp;ndash; it is an art form.</description>
     </item>
     
     <item>
       <title>Butterflies and Blue</title>
-      <link>https://amandaernar.github.io/blog/posts/butterflies-and-blue/</link>
+      <link>http://example.org/blog/posts/butterflies-and-blue/</link>
       <pubDate>Sat, 05 Dec 2020 13:42:14 -0800</pubDate>
       
-      <guid>https://amandaernar.github.io/blog/posts/butterflies-and-blue/</guid>
+      <guid>http://example.org/blog/posts/butterflies-and-blue/</guid>
       <description>Famous scientists like Sir Isaac Newton have been fascinated by the color blue in nature. It&amp;rsquo;s incredibly rare and is absolutely beautiful, but why do they only rarely exist in nature? Well, we&amp;rsquo;ll have to look into what pigment is. Pigment is a thing that is released from an organism&amp;rsquo;s body due to the things it eats. Flamingoes get their pink pigment from the crustaceans (shrimp, crabs) they eat. Spoiler: there really aren&amp;rsquo;t any organisms that make blue pigment.</description>
     </item>
     
     <item>
-      <title>The One Thousand Times Rule</title>
-      <link>https://amandaernar.github.io/blog/posts/1-thousand-times-rule/</link>
-      <pubDate>Thu, 03 Dec 2020 21:53:22 -0800</pubDate>
+      <title>Faust</title>
+      <link>http://example.org/blog/posts/faust/</link>
+      <pubDate>Thu, 03 Dec 2020 21:41:21 -0800</pubDate>
       
-      <guid>https://amandaernar.github.io/blog/posts/1-thousand-times-rule/</guid>
-      <description>Have you ever heard or read somewhere about the 1,000 times rule? Well, if you haven&amp;rsquo;t, it&amp;rsquo;s actually pretty simple to understand. Perhaps you&amp;rsquo;ve heard the saying, &amp;ldquo;If you could do _____ one thousand times in the future, how would you do it?&amp;rdquo; Let&amp;rsquo;s say you&amp;rsquo;re driving your car and running a bit late for your job interview. Suddenly, your phone starts buzzing like crazy and plays a song by Mariah Carey: your interviewer is calling you.</description>
+      <guid>http://example.org/blog/posts/faust/</guid>
+      <description>Introduction
+You couldn&amp;rsquo;t possibly understand why I did what I did that fateful day. I&amp;rsquo;d probably rot in hell for the rest of eternity for that. But for now, I felt nothing at all. Absolutely nothing, not even the slightest bit of regret. Death really was strange.
+A pity, as it was. Life, death, love, hatred; these conceptions were so utterly human, yet so beautiful&amp;hellip;.
+As my rotting corpse was set ablaze, I decided to try and revise my answers to the questions I had asked back when my heart still pounded with life.</description>
     </item>
     
     <item>
       <title>Generalizing</title>
-      <link>https://amandaernar.github.io/blog/posts/generalizing/</link>
+      <link>http://example.org/blog/posts/generalizing/</link>
       <pubDate>Thu, 03 Dec 2020 21:41:21 -0800</pubDate>
       
-      <guid>https://amandaernar.github.io/blog/posts/generalizing/</guid>
+      <guid>http://example.org/blog/posts/generalizing/</guid>
       <description>The world&amp;rsquo;s smartest folks know how to do this thing really well: generalizing different words of wisdom. Generalizing big ideas is very simple! Let me give you an example. In biology class, students learn about food webs and food chains. They also learn about the energy transfer and how it decreases by 10% at each step of the food pyramid due to more energy being spent, and the exponential decrease in energy being consumed.</description>
     </item>
     
     <item>
-      <title>Sagan&#39;s Journal</title>
-      <link>https://amandaernar.github.io/blog/posts/sagans-journal/</link>
-      <pubDate>Thu, 03 Dec 2020 15:31:28 -0800</pubDate>
+      <title>Hands</title>
+      <link>http://example.org/blog/posts/hands/</link>
+      <pubDate>Thu, 03 Dec 2020 21:41:21 -0800</pubDate>
       
-      <guid>https://amandaernar.github.io/blog/posts/sagans-journal/</guid>
-      <description>It hadn’t rained in thirty years.
-“It hadn’t snowed, either. It stopped snowing around seventy years ago, and it stopped raining just thirty years ago. The world was going to end. I hadn’t done anything in my twenty-four years of living, and it was quite dry nowadays, you know? According to several sources, you guys thought that by the year 3000 we would have flying cars and stuff. Well, you were wrong.</description>
-    </item>
-    
-    <item>
-      <title>Ancient India</title>
-      <link>https://amandaernar.github.io/blog/posts/ancient-india/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amandaernar.github.io/blog/posts/ancient-india/</guid>
-      <description>India has evolved fascinatingly throughout its existence. It has been through many civil wars, governments, and periods. Ancient India was an astonishingly intelligent civilization, for it had come up with many revolutionary inventions. Some of these include the field of medicine, the decimal system, fables, and the game of chess. India has always been one of the most advanced civilizations, and this essay will explain why.
-One celebrated conqueror of Ancient India was Chandragupta.</description>
-    </item>
-    
-    <item>
-      <title>From Woodsong</title>
-      <link>https://amandaernar.github.io/blog/posts/from-woodsong/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amandaernar.github.io/blog/posts/from-woodsong/</guid>
-      <description>&amp;ldquo;From Woodsong&amp;rdquo; by Gary Paulsen tells a heartwarming story concerning the day he encounters a bear. The tale commences when Paulsen is removing burned food from his home one beautiful July morning. He spots a large male bear tearing his trash can apart. Paulsen then provokes the bear by hurling shoots and branches at it, and the animal charged. The bear&amp;rsquo;s intimidating figure hovered above Paulsen for a good minute or two, sniffing him up and down.</description>
-    </item>
-    
-    <item>
-      <title>Quarantine and the Pandemic</title>
-      <link>https://amandaernar.github.io/blog/posts/quarantine-and-the-pandemic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amandaernar.github.io/blog/posts/quarantine-and-the-pandemic/</guid>
-      <description>It&amp;rsquo;s been about a few months since the beginning of the national lockdown. So far, there have been 6,570,362 cases reported worldwide. There are about ten times that amount, so that would be 60 million cases. I&amp;rsquo;m kind of scared about going outside. 2020 has been a terrible year so far.
-These are a few things that have happened since January first:
- The novel coronavirus of 2019 has spread to many countries World War 3 threatened to start Australia is burning (koalas are dying) A helicopter crash kills Kobe and Gianna Bryant COVID-19 is considered a pandemic Dow plunges almost 3,000 points Tokyo postpones Olympics The United States officially impeaches President Trump Officers brutally murder George Floyd, sparking uprisings in Minneapolis Black Lives Matter comes back due to black deaths Criminals loot homes, banks, and luxury stores Protesters burn down cities ALL TOILET PAPER IS GONE Dolphins are in the Venice Canals due to no pollution  </description>
+      <guid>http://example.org/blog/posts/hands/</guid>
+      <description>My hands
+Battered, Bruised
+Have been torn, Have been used, Have been tortured, Have been stepped on
+They have removed weeds, They have drawn pictures, They have turned pages, They have served supper
+There is a scar on the right side of my right hand. There is a blister on the left side of my left palm.
+My hands can write, My hands can tie knots, My hands can play the piano, My hands can feel pain</description>
     </item>
     
   </channel>

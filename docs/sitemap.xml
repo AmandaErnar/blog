@@ -1,119 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://amandaernar.github.io/blog/</loc>
-    <lastmod>2021-04-10T10:39:09-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/hhh/</loc>
-    <lastmod>2021-04-10T10:39:09-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/excuses/</loc>
-    <lastmod>2021-02-06T13:56:19-08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/being-early/</loc>
-    <lastmod>2021-01-30T10:02:13-08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/trust/</loc>
-    <lastmod>2021-01-19T13:23:27-08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/reflection/</loc>
-    <lastmod>2020-12-09T14:25:53-08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/about/</loc>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2021-07-07T12:55:04-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/posts/</loc>
+    <lastmod>2021-07-07T12:55:04-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/posts/reverie/</loc>
+    <lastmod>2021-07-07T12:55:04-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/posts/monster/</loc>
+    <lastmod>2021-07-05T23:16:59-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/about/</loc>
     <lastmod>2020-12-07T21:46:00-08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/butterflies-and-blue/</loc>
+  </url><url>
+    <loc>http://example.org/blog/posts/butterflies-and-blue/</loc>
     <lastmod>2020-12-05T13:42:14-08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/1-thousand-times-rule/</loc>
-    <lastmod>2020-12-03T21:53:22-08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/generalizing/</loc>
+  </url><url>
+    <loc>http://example.org/blog/posts/faust/</loc>
     <lastmod>2020-12-03T21:41:21-08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+  </url><url>
+    <loc>http://example.org/blog/posts/generalizing/</loc>
+    <lastmod>2020-12-03T21:41:21-08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/posts/hands/</loc>
+    <lastmod>2020-12-03T21:41:21-08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/categories/</loc>
+  </url><url>
+    <loc>http://example.org/blog/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/</loc>
-    <lastmod>2020-12-03T15:49:20-08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/sagans-journal/</loc>
-    <lastmod>2020-12-03T15:31:28-08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/ancient-india/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/from-woodsong/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/posts/quarantine-and-the-pandemic/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://amandaernar.github.io/blog/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
 </urlset>
