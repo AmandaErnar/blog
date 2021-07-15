@@ -1,6 +1,7 @@
 ---
 title: "Faust"
 date: 2020-12-03T21:41:21-08:00
+draft: true
 ---
 
 *Introduction*
